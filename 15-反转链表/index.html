@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function reverseList(head) {
+        let node1=null;
+        let node2=null;
+        while(head!==null){
+            node2=head.next;
+            head.next=node1;
+            node1=head;
+            head=node2;
+        }
+        return node1;
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function NumOf1(num) {
+        let length=0;
+        while(num){
+            let num=num%2;
+            if(num===1){
+                length++;
+            }
+            num=num/2;
+        }
+    }
+    console.log(NumOf1(11));
+</script>
+</body>
+</html>

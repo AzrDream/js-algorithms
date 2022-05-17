@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function jumpFloor(n) {
+        if(n===1)
+            return 1;
+        return jumpFloor(n-1)*2;
+    }
+    console.log(jumpFloor(5));
+</script>
+</body>
+</html>

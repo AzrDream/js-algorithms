@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let arr2 = [];
+    function test(arr) {
+        for(let i = 0; i < arr.length; i++){
+            if(arr[i].constructor.name!=='Array'){
+                arr2.push(arr[i]);
+            }else{
+                test(arr[i]);
+            }
+        }
+    }
+    let arr1 = [1,[1,2],[1,2,3],[1,2,[3,4]]];
+    test(arr1);
+    console.log(arr2);
+</script>
+</body>
+</html>

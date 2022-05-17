@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4c8460a-ce0c-4527-aadb-d38cc78f462b" name="默认更改列表" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="23mT46b1tQoo4LQumUBnpJAf3xU" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.21-字符串中多少个子序列等于T.js">
+    <configuration name="17-布尔表达式的期待方法数.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/17-布尔表达式的期待方法数.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="18-超级洗衣机问题.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/18-超级洗衣机问题.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="19-约瑟夫环问题.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/19-约瑟夫环问题.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="20-有序矩阵中第k小的数.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/20-有序矩阵中第k小的数.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="21-字符串中多少个子序列等于T.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/21-字符串中多少个子序列等于T.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.21-字符串中多少个子序列等于T.js" />
+        <item itemvalue="Node.js.20-有序矩阵中第k小的数.js" />
+        <item itemvalue="Node.js.19-约瑟夫环问题.js" />
+        <item itemvalue="Node.js.18-超级洗衣机问题.js" />
+        <item itemvalue="Node.js.17-布尔表达式的期待方法数.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4c8460a-ce0c-4527-aadb-d38cc78f462b" name="默认更改列表" comment="" />
+      <created>1642338067944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642338067944</updated>
+      <workItem from="1642338070284" duration="3306000" />
+      <workItem from="1642424870038" duration="5347000" />
+      <workItem from="1642597196779" duration="3894000" />
+      <workItem from="1642694108829" duration="2338000" />
+      <workItem from="1642730513471" duration="37000" />
+      <workItem from="1642782379445" duration="1946000" />
+      <workItem from="1642827828359" duration="2366000" />
+      <workItem from="1644213788884" duration="1783000" />
+      <workItem from="1644326142894" duration="606000" />
+      <workItem from="1644935429243" duration="4150000" />
+      <workItem from="1644940209798" duration="19000" />
+      <workItem from="1645022015978" duration="3192000" />
+      <workItem from="1645098747684" duration="3731000" />
+      <workItem from="1645352584782" duration="5717000" />
+      <workItem from="1645450921413" duration="2761000" />
+      <workItem from="1645624992685" duration="4663000" />
+      <workItem from="1645702879767" duration="594000" />
+      <workItem from="1645933843293" duration="1276000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

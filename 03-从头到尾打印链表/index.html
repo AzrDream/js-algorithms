@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function printListFromTailToHead(head) {
+        const res = [];
+        let pNode = head;
+        while (pNode !== null){
+            res.unshift(pNode.val);
+            pNode = head.next;
+        }
+        return res;
+    }
+</script>
+</body>
+</html>

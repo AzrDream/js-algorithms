@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    const outStack = [];
+    const inStack = [];
+    function push(node) {
+        inStack.push(node);
+    }
+    function pop() {
+        if(outStack.length){
+            return outStack.pop();
+        }else{
+            while (inStack.length){
+                outStack.push(inStack.pop());
+            }
+            if(!outStack.length){
+                return -1;
+            }else
+                return outStack.pop();
+        }
+    }
+</script>
+</body>
+</html>

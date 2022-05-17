@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function fib(n) {
+        let arr = [0,1];
+        for(let i = 2; i <= n; i++){
+            arr[i] = arr[i-1]+arr[i-2];
+        }
+        return arr[n];
+    }
+    console.log(fib(5));
+</script>
+</body>
+</html>

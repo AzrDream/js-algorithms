@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5def8752-62ca-484d-9b8d-31bfddc480ed" name="默认更改列表" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="25N8wMi68BOuYN9Q7fEd32He8iG" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.09-heapify构建大根堆.js">
+    <configuration name="01-冒泡排序.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/01-排序相关/01-冒泡排序.js" working-dir="$PROJECT_DIR$/01-排序相关">
+      <method v="2" />
+    </configuration>
+    <configuration name="02-选择排序.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/01-排序相关/02-选择排序.js" working-dir="$PROJECT_DIR$/01-排序相关">
+      <method v="2" />
+    </configuration>
+    <configuration name="03-插入排序.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/01-排序相关/03-插入排序.js" working-dir="$PROJECT_DIR$/01-排序相关">
+      <method v="2" />
+    </configuration>
+    <configuration name="05-归并排序.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/01-排序相关/05-归并排序.js" working-dir="$PROJECT_DIR$/01-排序相关">
+      <method v="2" />
+    </configuration>
+    <configuration name="09-heapify构建大根堆.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/01-排序相关/09-heapify构建大根堆.js" working-dir="$PROJECT_DIR$/01-排序相关">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.09-heapify构建大根堆.js" />
+        <item itemvalue="Node.js.05-归并排序.js" />
+        <item itemvalue="Node.js.03-插入排序.js" />
+        <item itemvalue="Node.js.02-选择排序.js" />
+        <item itemvalue="Node.js.01-冒泡排序.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5def8752-62ca-484d-9b8d-31bfddc480ed" name="默认更改列表" comment="" />
+      <created>1645356420769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645356420769</updated>
+      <workItem from="1645356423009" duration="343000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

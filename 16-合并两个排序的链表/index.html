@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function A() {
+        this.a = 1;
+    }
+    A.prototype.b = 2;
+
+    function myNew() {}
+
+    var a1 = myNew(A);
+
+    // console.log(a1.a);
+    console.log(a1.b);
+
+    /*
+    console.log(b());
+    function Merge(l1,l2) {
+        let res=new ListNode(0);
+        let node1 = l1;
+        let node2 = l2;
+        let list = res;
+        while(node1&&node2){
+            if(node1.val<node2.val){
+                res.next=node1;
+                node1=node1.next;
+            }else{
+                res.next=node2;
+                node2=node2.next;
+            }
+            res=res.next;
+        }
+        res.next=node1?node1:node2;
+        return list.next;
+    }*/
+</script>
+</body>
+</html>

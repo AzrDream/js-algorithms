@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5575e022-1275-4390-938b-a3b00f4abc5f" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/算法体系/08-动态规划相关/50-较小集合的累加和.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法体系/08-动态规划相关/51-较小集合的累加和加强版.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法体系/08-动态规划相关/52-N皇后问题.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法体系/12-窗口相关/36-双端队列的实现.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法体系/12-窗口相关/37-窗口内的最大值.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法体系/12-窗口相关/39-加油站问题.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法体系/12-窗口相关/37-最大值减去最小值.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法体系/12-窗口相关/38-最大值减去最小值.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,17 +66,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.52-N皇后问题.js">
-    <configuration name="44-货币问题加强.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/08-动态规划相关/44-货币问题加强.js" working-dir="$PROJECT_DIR$/算法/08-动态规划相关">
+  <component name="RunManager" selected="Node.js.39-加油站问题.js">
+    <configuration name="36-双端队列的实现.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法体系/12-窗口相关/36-双端队列的实现.js" working-dir="$PROJECT_DIR$/算法体系/12-窗口相关">
       <method v="2" />
     </configuration>
-    <configuration name="47-怪兽死亡概率.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/08-动态规划相关/47-怪兽死亡概率.js" working-dir="$PROJECT_DIR$/算法/08-动态规划相关">
+    <configuration name="37-窗口内的最大值.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法体系/12-窗口相关/37-窗口内的最大值.js" working-dir="$PROJECT_DIR$/算法体系/12-窗口相关">
       <method v="2" />
     </configuration>
-    <configuration name="48-最少硬币数目.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/08-动态规划相关/48-最少硬币数目.js" working-dir="$PROJECT_DIR$/算法/08-动态规划相关">
+    <configuration name="38-最大值减去最小值.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法体系/12-窗口相关/38-最大值减去最小值.js" working-dir="$PROJECT_DIR$/算法体系/12-窗口相关">
       <method v="2" />
     </configuration>
-    <configuration name="49-整数拆分.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法/08-动态规划相关/49-整数拆分.js" working-dir="$PROJECT_DIR$/算法/08-动态规划相关">
+    <configuration name="39-加油站问题.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法体系/12-窗口相关/39-加油站问题.js" working-dir="$PROJECT_DIR$/算法体系/12-窗口相关">
       <method v="2" />
     </configuration>
     <configuration name="52-N皇后问题.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法体系/08-动态规划相关/52-N皇后问题.js" working-dir="$PROJECT_DIR$/算法体系/08-动态规划相关">
@@ -83,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.39-加油站问题.js" />
+        <item itemvalue="Node.js.38-最大值减去最小值.js" />
+        <item itemvalue="Node.js.37-窗口内的最大值.js" />
+        <item itemvalue="Node.js.36-双端队列的实现.js" />
         <item itemvalue="Node.js.52-N皇后问题.js" />
-        <item itemvalue="Node.js.49-整数拆分.js" />
-        <item itemvalue="Node.js.48-最少硬币数目.js" />
-        <item itemvalue="Node.js.47-怪兽死亡概率.js" />
-        <item itemvalue="Node.js.44-货币问题加强.js" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +153,8 @@
       <workItem from="1652583836574" duration="5481000" />
       <workItem from="1652673548303" duration="21372000" />
       <workItem from="1652758360210" duration="13851000" />
-      <workItem from="1652846990944" duration="9743000" />
+      <workItem from="1652846990944" duration="10595000" />
+      <workItem from="1652934820652" duration="8292000" />
     </task>
     <servers />
   </component>
@@ -164,7 +166,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

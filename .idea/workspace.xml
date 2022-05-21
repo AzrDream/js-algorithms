@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5575e022-1275-4390-938b-a3b00f4abc5f" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/算法体系/13-单调栈相关/40-下一个更小元素.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法体系/13-单调栈相关/41-单链表实现.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法体系/13-单调栈相关/42-正数数组累加和.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法体系/13-单调栈相关/43-直方图.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法体系/13-单调栈相关/44-最大矩形.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法体系/13-单调栈相关/45-全1矩阵数量.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法体系/13-单调栈相关/46-子数组的最小值之和.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,10 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.45-全1矩阵数量.js">
-    <configuration name="40-下一个更小元素.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法体系/13-单调栈相关/40-下一个更小元素.js" working-dir="$PROJECT_DIR$/算法体系/13-单调栈相关">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.46-子数组的最小值之和.js">
     <configuration name="42-正数数组累加和.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法体系/13-单调栈相关/42-正数数组累加和.js" working-dir="$PROJECT_DIR$/算法体系/13-单调栈相关">
       <method v="2" />
     </configuration>
@@ -84,13 +76,16 @@
     <configuration name="45-全1矩阵数量.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法体系/13-单调栈相关/45-全1矩阵数量.js" working-dir="$PROJECT_DIR$/算法体系/13-单调栈相关">
       <method v="2" />
     </configuration>
+    <configuration name="46-子数组的最小值之和.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法体系/13-单调栈相关/46-子数组的最小值之和.js" working-dir="$PROJECT_DIR$/算法体系/13-单调栈相关">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.46-子数组的最小值之和.js" />
         <item itemvalue="Node.js.45-全1矩阵数量.js" />
         <item itemvalue="Node.js.44-最大矩形.js" />
         <item itemvalue="Node.js.43-直方图.js" />
         <item itemvalue="Node.js.42-正数数组累加和.js" />
-        <item itemvalue="Node.js.40-下一个更小元素.js" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +153,8 @@
       <workItem from="1652846990944" duration="10595000" />
       <workItem from="1652934820652" duration="8292000" />
       <workItem from="1653009357351" duration="51000" />
-      <workItem from="1653016452176" duration="10640000" />
+      <workItem from="1653016452176" duration="11217000" />
+      <workItem from="1653118511135" duration="2786000" />
     </task>
     <servers />
   </component>

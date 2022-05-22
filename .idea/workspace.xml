@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5575e022-1275-4390-938b-a3b00f4abc5f" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/算法体系/14-斐波那契数列矩阵乘法/47-斐波那契数列矩阵乘法.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法体系/14-斐波那契数列矩阵乘法/48-母牛问题.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法体系/14-斐波那契数列矩阵乘法/49-达标字符串.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法体系/09-KMP相关/35-前加字符成为最短回文串.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法体系/09-KMP相关/34-KMP算法题目.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法体系/09-KMP相关/34-后加字符成为最短回文串.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,11 +64,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.48-母牛问题.js">
-    <configuration name="44-最大矩形.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法体系/13-单调栈相关/44-最大矩形.js" working-dir="$PROJECT_DIR$/算法体系/13-单调栈相关">
+  <component name="RunManager" selected="Node.js.35-前加字符成为最短回文串.js">
+    <configuration name="34-后加字符成为最短回文串.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法体系/09-KMP相关/34-后加字符成为最短回文串.js" working-dir="$PROJECT_DIR$/算法体系/09-KMP相关">
       <method v="2" />
     </configuration>
-    <configuration name="45-全1矩阵数量.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法体系/13-单调栈相关/45-全1矩阵数量.js" working-dir="$PROJECT_DIR$/算法体系/13-单调栈相关">
+    <configuration name="35-前加字符成为最短回文串.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法体系/09-KMP相关/35-前加字符成为最短回文串.js" working-dir="$PROJECT_DIR$/算法体系/09-KMP相关">
       <method v="2" />
     </configuration>
     <configuration name="46-子数组的最小值之和.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法体系/13-单调栈相关/46-子数组的最小值之和.js" working-dir="$PROJECT_DIR$/算法体系/13-单调栈相关">
@@ -83,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.35-前加字符成为最短回文串.js" />
+        <item itemvalue="Node.js.34-后加字符成为最短回文串.js" />
         <item itemvalue="Node.js.48-母牛问题.js" />
         <item itemvalue="Node.js.47-斐波那契数列矩阵乘法.js" />
         <item itemvalue="Node.js.46-子数组的最小值之和.js" />
-        <item itemvalue="Node.js.45-全1矩阵数量.js" />
-        <item itemvalue="Node.js.44-最大矩形.js" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +155,8 @@
       <workItem from="1652934820652" duration="8292000" />
       <workItem from="1653009357351" duration="51000" />
       <workItem from="1653016452176" duration="11217000" />
-      <workItem from="1653118511135" duration="7450000" />
+      <workItem from="1653118511135" duration="7792000" />
+      <workItem from="1653204582539" duration="3560000" />
     </task>
     <servers />
   </component>

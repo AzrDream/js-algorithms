@@ -9,7 +9,7 @@ function manacherString(str) {
             res[i] = '#'
         }
     }
-    return res;
+    return res.join('');
 }
 function maxLcpsLength(str) {
     if(str === null || str.length === 0) {
@@ -23,6 +23,7 @@ function maxLcpsLength(str) {
     let C = -1;
     // 最右的扩成功位置的再下一个位置
     let R = -1;
+    let len = 0;
     let max = Number.MIN_VALUE;
     for(let i = 0; i !== charArr.length; i++) {
         // 区分第一种和其他的情况
@@ -42,9 +43,26 @@ function maxLcpsLength(str) {
             R = i + pArr[i];
             C = i;
         }
+        if(pArr[i] >= max) {
+            max = pArr[i];
+            len = i;
+        }
         max = Math.max(max, pArr[i]);
     }
-    return max - 1;
+    console.log(pArr);
+    // let len = 0;
+    // for(let i = 0; i < pArr.length; i++) {
+    //     if(max === pArr[i]){
+    //         len = i;
+    //     }
+    // }
+    console.log(max-1, len);
+    let str2 = charArr.substring(len-(max-1),len+(max-1));
+    let str3 = str2.split("").filter((char)=>{
+        return char!=='#'
+    });
+    return str3.join("");
 }
-let str = "abc1234321ab";
+let str = "babadada";
+let str2 = "#b#a#b#a#d#a#d#a#";
 console.log(maxLcpsLength(str));

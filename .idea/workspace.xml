@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5575e022-1275-4390-938b-a3b00f4abc5f" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/算法体系/15-Morris遍历/50-Morris遍历以及遍历二叉树.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法体系/15-Morris遍历/51-判断一棵树是否为搜索二叉树.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法体系/15-Morris遍历/52-获取二棵树的最小深度.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法体系/16-线段树/53-线段树.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法体系/16-线段树/54-掉落的方块.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,16 +40,16 @@
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Web全栈代码\js算法" />
-      <recent name="D:\Web全栈代码\js算法\牛客算法\12-stack" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Web全栈代码\js算法\算法体系\14-斐波那契数列矩阵乘法" />
       <recent name="D:\Web全栈代码\js算法\牛客算法\09-KMP相关" />
       <recent name="D:\Web全栈代码\js算法\牛客算法\04-反转单向双向链表" />
       <recent name="D:\Web全栈代码\js算法\牛客算法\03-分圈结构(打印转圈矩阵)相关" />
       <recent name="D:\Web全栈代码\js算法\牛客算法\02-栈队列相关" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Web全栈代码\js算法" />
+      <recent name="D:\Web全栈代码\js算法\牛客算法\12-stack" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -65,29 +64,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.52-获取二棵树的最小深度.js">
-    <configuration name="36-BFPRT.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法体系/11-BFPRT相关/36-BFPRT.js" working-dir="$PROJECT_DIR$/算法体系/11-BFPRT相关">
-      <method v="2" />
-    </configuration>
-    <configuration name="36-后面添加字符串使其成为回文串.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法体系/10-Manacher相关/36-后面添加字符串使其成为回文串.js" working-dir="$PROJECT_DIR$/算法体系/10-Manacher相关">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.54-掉落的方块.js">
     <configuration name="50-Morris遍历以及遍历二叉树.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法体系/15-Morris遍历/50-Morris遍历以及遍历二叉树.js" working-dir="$PROJECT_DIR$/算法体系/15-Morris遍历">
       <method v="2" />
     </configuration>
     <configuration name="52-获取二棵树的最小深度.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法体系/15-Morris遍历/52-获取二棵树的最小深度.js" working-dir="$PROJECT_DIR$/算法体系/15-Morris遍历">
       <method v="2" />
     </configuration>
-    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test.js" working-dir="$PROJECT_DIR$">
+    <configuration name="53-线段树.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法体系/16-线段树/53-线段树.js" working-dir="$PROJECT_DIR$/算法体系/16-线段树">
+      <method v="2" />
+    </configuration>
+    <configuration name="54-掉落的方块.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法体系/16-线段树/54-掉落的方块.js" working-dir="$PROJECT_DIR$/算法体系/16-线段树">
+      <method v="2" />
+    </configuration>
+    <configuration name="奇安信笔试匹配括号长度.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode算法题/奇安信笔试匹配括号长度.js" working-dir="$PROJECT_DIR$/leetcode算法题">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.54-掉落的方块.js" />
+        <item itemvalue="Node.js.53-线段树.js" />
+        <item itemvalue="Node.js.奇安信笔试匹配括号长度.js" />
         <item itemvalue="Node.js.52-获取二棵树的最小深度.js" />
         <item itemvalue="Node.js.50-Morris遍历以及遍历二叉树.js" />
-        <item itemvalue="Node.js.test.js" />
-        <item itemvalue="Node.js.36-BFPRT.js" />
-        <item itemvalue="Node.js.36-后面添加字符串使其成为回文串.js" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +161,8 @@
       <workItem from="1653375611118" duration="6571000" />
       <workItem from="1653482595399" duration="591000" />
       <workItem from="1653492978570" duration="895000" />
-      <workItem from="1653536757537" duration="7713000" />
+      <workItem from="1653536757537" duration="8435000" />
+      <workItem from="1653620539881" duration="10869000" />
     </task>
     <servers />
   </component>

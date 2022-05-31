@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5575e022-1275-4390-938b-a3b00f4abc5f" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/算法体系/17-IndexTree、AC自动机/55-IndexTree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法体系/17-IndexTree、AC自动机/56-IndexTree2D.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法体系/17-IndexTree、AC自动机/57-AC自动机.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法体系/18-有序表/58-AVLTreeMap.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,16 +39,16 @@
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Web全栈代码\js算法" />
+      <recent name="D:\Web全栈代码\js算法\牛客算法\12-stack" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Web全栈代码\js算法\算法体系\14-斐波那契数列矩阵乘法" />
       <recent name="D:\Web全栈代码\js算法\牛客算法\09-KMP相关" />
       <recent name="D:\Web全栈代码\js算法\牛客算法\04-反转单向双向链表" />
       <recent name="D:\Web全栈代码\js算法\牛客算法\03-分圈结构(打印转圈矩阵)相关" />
       <recent name="D:\Web全栈代码\js算法\牛客算法\02-栈队列相关" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Web全栈代码\js算法" />
-      <recent name="D:\Web全栈代码\js算法\牛客算法\12-stack" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -165,7 +163,8 @@
       <workItem from="1653536757537" duration="8435000" />
       <workItem from="1653620539881" duration="11121000" />
       <workItem from="1653706528796" duration="14429000" />
-      <workItem from="1653796145542" duration="605000" />
+      <workItem from="1653796145542" duration="1240000" />
+      <workItem from="1653879949123" duration="5918000" />
     </task>
     <servers />
   </component>

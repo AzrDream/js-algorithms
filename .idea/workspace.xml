@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5575e022-1275-4390-938b-a3b00f4abc5f" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/大厂刷题/01/02-调换字母位置.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大厂刷题/01/03-用+或-连接算出target种数.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大厂刷题/01/04-矩阵中的最长递增路径.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/大厂刷题/01/05-AOE技能.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大厂刷题/02/01-最短无序连续子数组 .js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大厂刷题/02/02-买饮料.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/大厂刷题/02/03-司机问题.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/大厂刷题/01-穿过所有点的所需最少直线数量.js" beforeDir="false" afterPath="$PROJECT_DIR$/大厂刷题/01/01-穿过所有点的所需最少直线数量.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,17 +65,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.05-AOE技能.js">
+  <component name="RunManager" selected="Node.js.02-买饮料.js">
+    <configuration name="01-最短无序连续子数组 .js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/大厂刷题/02/01-最短无序连续子数组 .js" working-dir="$PROJECT_DIR$/大厂刷题/02">
+      <method v="2" />
+    </configuration>
+    <configuration name="02-买饮料.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/大厂刷题/02/02-买饮料.js" working-dir="$PROJECT_DIR$/大厂刷题/02">
+      <method v="2" />
+    </configuration>
     <configuration name="04-矩阵中的最长递增路径.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/大厂刷题/01/04-矩阵中的最长递增路径.js" working-dir="$PROJECT_DIR$/大厂刷题/01">
       <method v="2" />
     </configuration>
     <configuration name="05-AOE技能.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/大厂刷题/01/05-AOE技能.js" working-dir="$PROJECT_DIR$/大厂刷题/01">
-      <method v="2" />
-    </configuration>
-    <configuration name="60-SkipListMap.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法体系/18-有序表/60-SkipListMap.js" working-dir="$PROJECT_DIR$/算法体系/18-有序表">
-      <method v="2" />
-    </configuration>
-    <configuration name="61-区间和的个数.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法体系/18-有序表/61-区间和的个数.js" working-dir="$PROJECT_DIR$/算法体系/18-有序表">
       <method v="2" />
     </configuration>
     <configuration name="62-滑动窗口的中位数.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法体系/18-有序表/62-滑动窗口的中位数.js" working-dir="$PROJECT_DIR$/算法体系/18-有序表">
@@ -85,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.02-买饮料.js" />
+        <item itemvalue="Node.js.01-最短无序连续子数组 .js" />
         <item itemvalue="Node.js.05-AOE技能.js" />
         <item itemvalue="Node.js.04-矩阵中的最长递增路径.js" />
         <item itemvalue="Node.js.62-滑动窗口的中位数.js" />
-        <item itemvalue="Node.js.61-区间和的个数.js" />
-        <item itemvalue="Node.js.60-SkipListMap.js" />
       </list>
     </recent_temporary>
   </component>
@@ -172,6 +170,7 @@
       <workItem from="1653965021638" duration="12768000" />
       <workItem from="1654049916803" duration="7356000" />
       <workItem from="1654141354067" duration="9637000" />
+      <workItem from="1654227498260" duration="5347000" />
     </task>
     <servers />
   </component>

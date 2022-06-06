@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5575e022-1275-4390-938b-a3b00f4abc5f" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/算法体系/19-根据对数器找规律/63-小虎买苹果.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法体系/19-根据对数器找规律/64-牛羊吃草.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法体系/19-根据对数器找规律/65-连续正数的和.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法体系/20-根据数据量猜解法/66-怪兽通关问题.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法体系/20-根据数据量猜解法/67-累加等于sum.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.63-小虎买苹果.js">
+  <component name="RunManager" selected="Node.js.67-累加等于sum.js">
     <configuration name="02-字符种类.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/大厂刷题/03/02-字符种类.js" working-dir="$PROJECT_DIR$/大厂刷题/03">
       <method v="2" />
     </configuration>
@@ -77,22 +74,22 @@
     <configuration name="04-救生艇.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/大厂刷题/03/04-救生艇.js" working-dir="$PROJECT_DIR$/大厂刷题/03">
       <method v="2" />
     </configuration>
-    <configuration name="05-最长无重复字符子串长度.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetcode算法题/05-最长无重复字符子串长度.js" working-dir="$PROJECT_DIR$/leetcode算法题">
-      <method v="2" />
-    </configuration>
     <configuration name="05-最接近目标值的子序列和.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/大厂刷题/03/05-最接近目标值的子序列和.js" working-dir="$PROJECT_DIR$/大厂刷题/03">
       <method v="2" />
     </configuration>
     <configuration name="63-小虎买苹果.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法体系/19-根据对数器找规律/63-小虎买苹果.js" working-dir="$PROJECT_DIR$/算法体系/19-根据对数器找规律">
       <method v="2" />
     </configuration>
+    <configuration name="67-累加等于sum.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/算法体系/20-根据数据量猜解法/67-累加等于sum.js" working-dir="$PROJECT_DIR$/算法体系/20-根据数据量猜解法">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.67-累加等于sum.js" />
         <item itemvalue="Node.js.63-小虎买苹果.js" />
         <item itemvalue="Node.js.04-救生艇.js" />
         <item itemvalue="Node.js.03-最大的以1为边界的正方形.js" />
         <item itemvalue="Node.js.02-字符种类.js" />
-        <item itemvalue="Node.js.05-最长无重复字符子串长度.js" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +174,8 @@
       <workItem from="1654141354067" duration="9637000" />
       <workItem from="1654227498260" duration="6245000" />
       <workItem from="1654319314142" duration="8549000" />
-      <workItem from="1654399243630" duration="7098000" />
+      <workItem from="1654399243630" duration="8562000" />
+      <workItem from="1654485781739" duration="3173000" />
     </task>
     <servers />
   </component>
